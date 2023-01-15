@@ -2,7 +2,7 @@ import time
 import psutil
 import socket
 import os
-import sys
+
 
 def fun():
 	cpu = psutil.cpu_percent(1)
